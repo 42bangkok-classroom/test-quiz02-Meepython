@@ -20,5 +20,13 @@
     "@types/node": "^25.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42bangkok-classroom/test-quiz02-Meepython.git"
+  },
+  "bugs": {
+    "url": "https://github.com/42bangkok-classroom/test-quiz02-Meepython/issues"
+  },
+  "homepage": "https://github.com/42bangkok-classroom/test-quiz02-Meepython#readme"
 }
