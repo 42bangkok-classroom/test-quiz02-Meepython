@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/42bangkok-classroom/test-quiz02-Meepython/issues"
   },
-  "homepage": "https://github.com/42bangkok-classroom/test-quiz02-Meepython#readme"
+  "homepage": "https://github.com/42bangkok-classroom/test-quiz02-Meepython#readme",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
 }
